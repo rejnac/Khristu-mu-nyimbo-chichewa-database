@@ -8,10 +8,6 @@ Please note that the songs were initially prepared on Videopsalm Church Presenta
 
 Khristu Mu Nyimbo is part of several other databases and lyrics based projects that we are currently doing in different languages. 
 
-# Multi-lingual SDA hymnal
-
-Compiled: https://tinyurl.com/rejnac-compiled
-
 # Our mission
 Making SDA Worship Material accessible to everyone.
 
@@ -21,6 +17,10 @@ You can support us in correcting errors or donating towards a team of dedicated 
 * Paypal: info@rejnac.com 
 * M-Pesa: +254713860652
 * Donate: https://tinyurl.com/rejnac-donate
+
+# Multi-lingual SDA hymnal
+
+Compiled: https://tinyurl.com/rejnac-compiled
 
 Prepared by sir enock, director at Rejnac Group Inc. (https://rejnac.com).
 

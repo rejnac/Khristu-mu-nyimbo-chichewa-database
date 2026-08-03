@@ -1,6 +1,5 @@
 # Khristu Mu Nyimbo from Rejnac Foundation.
 
-By sir enock,
 
 The repository contains all the 350 Khristu Mu Nyimbo hymnal lyrics in Chichewa language also called Chewa or Nyanja.
 

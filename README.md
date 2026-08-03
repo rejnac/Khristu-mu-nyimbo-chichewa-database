@@ -4,7 +4,7 @@ By sir enock,
 
 The repository contains all the 350 Khristu Mu Nyimbo hymnal lyrics in Chichewa language also called Chewa or Nyanja.
 
-Please note that the songs were initially prepared on Videopsalm Church Presentation software, exported in its native (.vpc) format, and extracted as (.Json) file.
+Disclaimer: The lyrics were prepared on VideoPsalm Church Presentation software (opensource), exported in its native (.vpc) format, and extracted as (.Json) file.
 
 Khristu Mu Nyimbo is part of several other databases and lyrics based projects that we are currently doing in different languages. 
 

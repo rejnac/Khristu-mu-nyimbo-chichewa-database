@@ -5,7 +5,7 @@ The repository contains all the 350 Khristu Mu Nyimbo hymnal lyrics in Chichewa 
 
 Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software (open-source), exported in its native (.vpc) format, and extracted as (.Json) file.
 
-Khristu Mu Nyimbo is part of several other SDA music lyrics under refining in different languages. 
+Khristu Mu Nyimbo is part of several other SDA music lyrics under refinement in different languages. 
 
 # Mission
 Making SDA worship material accessible to everyone.
